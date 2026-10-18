@@ -1,0 +1,23 @@
+# Renvi
+
+> Renvi is a kidney diet tracker for people who were told to watch potassium, phosphorus, sodium, protein or fluid. Enter the limits your doctor or renal dietitian gave you, then log what you eat and drink — Renvi keeps a running total for the day, so you know how much room is left before dinner.
+
+Renvi: Kidney Diet Tracker — Potassium, Phosphorus, Sodium. iPhone app, available on the App Store: https://apps.apple.com/app/id6816678885?pt=128855456&ct=ai_web
+
+## Guides
+
+- [How to Compare Sodium in Canned and Packaged Foods on iPhone](https://qwerpap.github.io/renvi-legal/how-to-check-sodium-in-canned-and-packaged-food): Compare USDA sodium values for regular and reduced-sodium versions of the same food, then log what you eat.
+- [How to Count Fluid Intake on Dialysis on iPhone](https://qwerpap.github.io/renvi-legal/how-to-count-fluid-intake-on-dialysis): Log every glass, cup and sip against the fluid limit your dialysis team gave you, and decide whether food water counts.
+- [How to Log Phosphorus in Food on iPhone](https://qwerpap.github.io/renvi-legal/how-to-log-phosphorus-in-food): Look up phosphorus per portion from USDA data, add foods to a meal, and see the daily total against your own limit.
+- [How to Track Potassium on a Kidney Diet on iPhone](https://qwerpap.github.io/renvi-legal/how-to-track-potassium-on-a-kidney-diet): Enter the potassium limit your care team gave you, log foods from USDA data, and watch the daily bar fill. Works offline.
+
+## App
+
+- [Home](https://qwerpap.github.io/renvi-legal/): what Renvi does, features, pricing
+- [App Store](https://apps.apple.com/app/id6816678885?pt=128855456&ct=ai_web): download, screenshots, reviews
+
+## Optional
+
+- [Privacy](https://qwerpap.github.io/renvi-legal/privacy)
+- [Support](https://qwerpap.github.io/renvi-legal/support)
+- [Terms](https://qwerpap.github.io/renvi-legal/terms)
